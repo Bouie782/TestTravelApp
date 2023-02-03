@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../Pokemon21Questions"
+		},
+		{
+			"path": "../public"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../target"
+		}
+	],
+	"settings": {}
+}
